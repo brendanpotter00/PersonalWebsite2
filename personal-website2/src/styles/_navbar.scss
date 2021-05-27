@@ -7,6 +7,7 @@
         justify-content: space-between;
         align-items: center;
 
+        //profile picture styling
         .profile{
             width: 100%;
             text-align: center;
@@ -35,6 +36,7 @@
                     display: block;
                     padding: .5rem 0;
                     position: relative;
+                    //animations
                     &::before{
                         content: "";
                         position: absolute;
@@ -48,7 +50,7 @@
                         overflow-x: hidden;
                         transition: transform .6s, .2s width .5s cubic-bezier(1,-0.16,.6,1.35);
                     }
-
+                    
                     &:hover::before{
                         width: 100%;
                         transform: scale(1);

@@ -24,18 +24,23 @@ function NavBar() {
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/portfolios" exact activeClassName="active">
-                            Portfolios
+                        <NavLink to="/projects" exact activeClassName="active">
+                            Projects
                         </NavLink>
                     </li>
                     <li className="nav-item">
-                        <NavLink to="/blogs" exact activeClassName="active">
-                            Blogs
+                        <NavLink to="/courses" exact activeClassName="active">
+                            Relevant Courses
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="/interests" exact activeClassName="active">
+                            Outside Interests
                         </NavLink>
                     </li>
                     <li className="nav-item">
                         <NavLink to="/contacts" exact activeClassName="active">
-                            Contacts
+                            Contact Information
                         </NavLink>
                     </li>
                 </ul>
