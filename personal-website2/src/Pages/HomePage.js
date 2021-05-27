@@ -10,7 +10,7 @@ function HomePage() {
                         <span> Brendan Potter.</span>
                     </h1>
                     <p className="h-sub-text">I
-                        brendan paragraph 1
+                        I am a computer science student at Trinity University, seeking an internship. THIS IS IN HOMEPAGE.JS
                     </p>
                     <div className="icons">
 
