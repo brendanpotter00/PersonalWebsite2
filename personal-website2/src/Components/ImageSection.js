@@ -10,14 +10,28 @@ function ImageSection() {
             
             <div className="about-info">
                 <h4> I am <span> Brendan Potter</span></h4>
-                <p>
-                    I am gay. this a descriptor and is IN IMAGESECTION.JS
+                <p className="about-text">
+                    I am gay. this a descriptor and is IN IMAGESECTION.JS spamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspamspam
                 </p>
                 <div className="about-details">
-                    <div className="name-details">
-                        <p>Full Name: Brendan N Potter</p>
+                    <div className="left-section">
+                        <p>Full Name</p>
+                        <p>Age</p>
+                        <p>Nationality</p>
+                        <p>Languages</p>
+                        <p>City</p>
+                        
+                    </div>
+                    <div className="right-section">
+                        <p>: Brendan N Potter</p>
+                        <p>: 21</p>
+                        <p>: American</p>
+                        <p>: English and Spanish </p>
+                        <p>: San Antonio, Tx</p>
+                       
                     </div>
                 </div>
+                <button className="btn">Download Resume</button>
             </div>
         </div>
     )
