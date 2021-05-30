@@ -32,6 +32,13 @@ function AboutPage() {
                 <SkillsSection skill={'C'} progress={'50%'} width={'50%'} />
                 <SkillsSection skill={'C++'} progress={'80%'} width={'80%'} />
                 <SkillsSection skill={'Haskell'} progress={'40%'} width={'40%'} />
+                <SkillsSection skill={'SQL'} progress={'40%'} width={'40%'} />
+                <SkillsSection skill={'R'} progress={'40%'} width={'40%'} />
+                <SkillsSection skill={'Tableau'} progress={'40%'} width={'40%'} />
+                <SkillsSection skill={'Microsoft Word'} progress={'90%'} width={'90%'} />
+                <SkillsSection skill={'Microsoft Excel'} progress={'90%'} width={'90%'} />
+                <SkillsSection skill={'Adobe Photoshop'} progress={'80%'} width={'80%'} />
+                <SkillsSection skill={'Adobe Illistrator'} progress={'60%'} width={'60%'} />
             </div>
             
             

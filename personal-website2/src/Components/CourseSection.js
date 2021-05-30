@@ -7,15 +7,19 @@ function CourseSection() {
             <div className="cs-title">
                 <h4> Computer <span> Science</span></h4>
                 <p className="cs-description">
-                    CS is hard bro. and is IN COURSESECTION.JS 
+                   All Computer Science courses I have taken at Trinity University as of Fall 2021. IN COURSESECTION.JS 
                 </p>
                 <div className="course-area">
                     <div className="courses">
-                        <p>CS 1</p>
-                        <p>CS 2</p>
+                        <p>Principals of Computer Science 1</p>
+                        <p>Principals of Computer Science 2</p>
                         <p>Discrete Mathmatics</p>
                         <p>Low-Level Computing</p>
                         <p>Functional Programming</p>
+                        <p>Principals of Data Abstraction</p>
+                        <p>Computer Design</p>
+                        <p>Game AI</p>
+                        <p></p>
                         
                     </div>
                     <div className="course-specifications">
@@ -24,6 +28,9 @@ function CourseSection() {
                         <p>: probability and proofs and logic</p>
                         <p>: C </p>
                         <p>: Haskell</p>
+                        <p>: C++</p>
+                        <p>: MIPS</p>
+                        <p>: Java</p>
                        
                     </div>
                 </div>
