@@ -1,10 +1,13 @@
 import React from 'react'
 import Title from '../Components/Title'
+import InterestsSection from '../Components/InterestsSection'
 
 function InterestsPage() {
     return (
-        <div>
-            <Title title={'Personal Interests'} span={'Personal Interests'} />
+        <div className="InterestsPage">
+            <Title title={'Interests'} span={'Interests'} />
+            <InterestsSection />
+
         </div>
     )
 }
