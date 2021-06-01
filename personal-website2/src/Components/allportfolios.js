@@ -8,8 +8,13 @@ import port7 from '../img/portImages/port6.jpg';
 const portfolios = [
     {
         /* 
+        category ideas: classes, topics, PROBABLY BY LANGUAGE 
         CATEGORIES:
-        foo
+        CS 1
+        CS 2
+        Game AI
+        Low
+
 
         LANGUAGES: 
         foo
@@ -18,8 +23,7 @@ const portfolios = [
         
         id: 1,
         category: 'Java',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port1,
@@ -28,8 +32,8 @@ const portfolios = [
     {
         id: 2,
         category: 'JavaScript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port2,
@@ -38,8 +42,8 @@ const portfolios = [
     {
         id: 3,
         category: 'Animation',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port3,
@@ -48,8 +52,8 @@ const portfolios = [
     {
         id: 4,
         category: 'Javascript',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+       
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port4,
@@ -58,8 +62,8 @@ const portfolios = [
     {
         id: 5,
         category: 'Scala',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port6,
@@ -68,8 +72,8 @@ const portfolios = [
     {
         id: 6,
         category: 'React Js',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'language',
         image: port7,
@@ -78,8 +82,8 @@ const portfolios = [
     {
         id: 7,
         category: 'Test Port',
-        link1: 'www.youtube.com',
-        link2: 'www.github.com',
+        
+        link1: 'www.github.com',
         icon1: 'G',
         caption: 'brendan',
         image: port4,
