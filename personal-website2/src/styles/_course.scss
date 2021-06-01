@@ -6,6 +6,7 @@
 
     .cs-title{
         margin-left: 2rem;
+      
         h4{
             font-size: 2rem;
         }
@@ -25,10 +26,18 @@
 
 .course-area{
     display: flex;
+
+    .courses {
+        font-weight: bold;
+    }
+
     p{
         padding: .3rem 0;
     }
     .course-specifications{
+        .langs {
+            font-weight: bold;
+        }
         margin-left: 2.3rem;
     }
 }
