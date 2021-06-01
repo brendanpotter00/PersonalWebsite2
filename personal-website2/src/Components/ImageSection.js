@@ -18,7 +18,7 @@ function ImageSection() {
                         <p>Full Name</p>
                         <p>Age</p>
                         <p>Nationality</p>
-                        <p>Languages</p>
+                       
                         <p>City</p>
                         
                     </div>
@@ -26,12 +26,15 @@ function ImageSection() {
                         <p>: Brendan N Potter</p>
                         <p>: 21</p>
                         <p>: American</p>
-                        <p>: English and Spanish </p>
+                        
                         <p>: San Antonio, Tx</p>
                        
                     </div>
                 </div>
-                <button className="btn">Download Resume</button>
+                <button className="btn">
+                    Download Resume
+                    <a href="resume.doc" />
+                </button>
             </div>
         </div>
     )
