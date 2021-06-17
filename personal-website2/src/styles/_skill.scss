@@ -3,18 +3,21 @@
 }
 
 .skills-container{
-
+    
     .skill-title{
         font-size: 1.4rem;
         font-weight: 400;
     }
 
     .skill-bar{
+        
         display: flex;
         align-items: center;
+        /*
         @media screen and (max-width: 710px){
             margin: 2rem 3rem;
         }
+        */
         .skill-text{
         }
         .skill-progress{

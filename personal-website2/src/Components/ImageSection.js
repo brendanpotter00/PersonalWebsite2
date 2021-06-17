@@ -1,11 +1,15 @@
 import React from 'react'
 import about from '../img/archPic1ABOUT.png';
+import aboutTest from '../img/about.jpg'
 
 function ImageSection() {
     return (
+        
+        
         <div className="ImageSection">
+            
             <div className="img">
-                <img src={about} alt ="" />
+                <img src={about} alt=""/>
             </div>
             
             <div className="about-info">
@@ -18,15 +22,15 @@ function ImageSection() {
                 <div className="about-details">
                     <div className="left-section">
                         <p>Full Name</p>
-                        <p>Age</p>
+                        <p>DOB</p>
                         <p>Nationality</p>
-                       
+
                         <p>City</p>
                         
                     </div>
                     <div className="right-section">
                         <p>: Brendan N Potter</p>
-                        <p>: 21</p>
+                        <p>: Feb 16, 2000</p>
                         <p>: American</p>
                         
                         <p>: San Antonio, Tx</p>
