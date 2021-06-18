@@ -1,4 +1,4 @@
-.PortfolioPage{
+.ProjectsPage{
 
 }
 
@@ -24,7 +24,7 @@
                 left: 15px;
                 height: calc(100% - 30px);
                 width: calc(100% - 30px);
-                background-color: rgba(0, 0, 0, 0.534);
+                background-color: rgba(255, 255, 255, 0.925);
                 transform-origin: center;
                 transform: scale(0);
                 transition: all .4s ease-in-out;
@@ -53,8 +53,8 @@
                         text-decoration: none;
                         font-family: inherit;
                         border-radius: 10px;
-                        background-color: rgba(131, 0, 253, 0.698);
-                        color: rgb(255, 255, 255);
+                        background-color: #037FFF;
+                        color: white;
                         &:not(:last-child){
                             margin-right: 2rem;
                         }
@@ -71,22 +71,15 @@
             }
         }
         
-        h7{
+        h5{
             font-size: 1.7rem;
             font-weight: 400;
             color: white;
             transition: all .3s ease-in-out;
             &:hover{
-                color:  rgba(209, 0, 246, 0.479);
+                color:  #037FFF;
                 cursor: pointer;
             }
-        }
-        h8{
-            font-size: 1.7rem;
-            font-weight: 400;
-            color: white;
-            transition: all .3s ease-in-out;
-           
         }
     }
 }
