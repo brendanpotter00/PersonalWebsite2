@@ -27,7 +27,7 @@ function InterestsPage() {
     return (
         <div className="InterestsPage">
             <div className="title">
-            <Title title={'Projects'} span={'Projects'} />
+            <Title title={'Interests'} span={'Interests'} />
             </div>
 
             <div className="portfolios-data">

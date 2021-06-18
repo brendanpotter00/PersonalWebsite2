@@ -5,7 +5,7 @@ import port4 from '../img/portImages/port3.jpg';
 import port6 from '../img/portImages/port5.jpg';
 import port7 from '../img/portImages/port6.jpg';
 import about from '../img/archPic1ABOUT.png';
-import avatar from '../img/avatar.png';
+import avatar from '../img/avatar3.png';
 
 const portfolios = [
     {
