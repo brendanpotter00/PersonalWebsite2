@@ -1,2 +1,2 @@
 # PersonalWebsite2
-second version
+professional personal website for Brendan Potter using ReactJs, JavaScript, and SCSS
