@@ -6,6 +6,7 @@ import {faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import {faInstagram} from '@fortawesome/free-brands-svg-icons';
 import {faPaypal} from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Title from '../Components/Title'
 //import {faDigitalOcean} from '@fortawesome/free-brands-svg-icons';
 import {Link} from 'react-router-dom';
 
@@ -30,12 +31,11 @@ function HomePage() {
                     <Link to="https://www.fiverr.com/brendanpotter00" className="icon-holder">
                         <FontAwesomeIcon icon={faPaypal} className="icon pay"/>
                     </Link>
-                    <Link to="https://www.instagram.com/brendanpotter00/" className="icon-holder">
-                        <FontAwesomeIcon icon={faInstagram} className="icon insta"/>
-                    </Link>
+                    
                     
                 </div>
             </header>
+            
         </div>
     )
 }

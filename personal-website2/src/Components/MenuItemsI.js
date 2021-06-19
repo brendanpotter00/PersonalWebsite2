@@ -14,10 +14,15 @@ function MenuItems({menuItem}) {
                                 </li>
                             </ul>
                         </div>
-                        <h7>
+                        <h8>
                             {item.title}
-                        </h7>
-                        <p> {item.caption} </p>
+                        </h8>
+                        
+                        <p className="cap"> 
+                            {item.caption} 
+                        </p>
+                        
+                        
                     </div>
                 })
             }

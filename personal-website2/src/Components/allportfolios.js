@@ -10,10 +10,11 @@ const portfolios = [
         /* 
         category ideas: classes, topics, PROBABLY BY LANGUAGE 
         CATEGORIES:
-        CS 1
-        CS 2
-        Game AI
-        Low
+        Web development
+        machine learning 
+        game development
+        full stack learning
+        courses 
 
 
         LANGUAGES: 
@@ -22,12 +23,12 @@ const portfolios = [
         */
         
         id: 1,
-        category: 'Java',
+        category: 'Web Devlopement',
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Reactive professional portfolio website (this website) | JavaScript, React.js',
         image: port1,
-        title: 'Autodesk Maya'
+        title: 'My Personal Website'
     },
     {
         id: 2,
@@ -35,7 +36,7 @@ const portfolios = [
         
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Uses webcam to determine if a person is smiling | Python',
         image: port2,
         title: 'Python Web Scrapping'
     },
@@ -45,7 +46,7 @@ const portfolios = [
         
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Website made using Three.js for Fraternity | JavaScript, React.js',
         image: port3,
         title: 'Autodesk Maya'
     },
@@ -55,7 +56,7 @@ const portfolios = [
        
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Game similar to the arcade game made for CS 2 course | Scala',
         image: port4,
         title: 'Vanilla Javascript Website'
     },
@@ -65,7 +66,7 @@ const portfolios = [
         
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack',
         image: port6,
         title: 'Getting Started With React'
     },
@@ -75,7 +76,7 @@ const portfolios = [
         
         link1: 'www.github.com',
         icon1: 'G',
-        caption: 'language',
+        caption: 'Program that sends an automated text at any given time of day | Python',
         image: port7,
         title: 'Vanilla Javascript Website'
     },

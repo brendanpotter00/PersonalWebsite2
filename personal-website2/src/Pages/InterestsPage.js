@@ -31,7 +31,7 @@ function InterestsPage() {
             </div>
 
             <div className="portfolios-data">
-                <Categories filter={filter} categories={categories} />
+                {/* <Categories filter={filter} categories={categories} /> FILTER */}
                 <MenuItems menuItem={menuItems} />
             </div>
         </div>

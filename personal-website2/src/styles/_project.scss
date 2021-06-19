@@ -24,7 +24,7 @@
                 left: 15px;
                 height: calc(100% - 30px);
                 width: calc(100% - 30px);
-                background-color: rgba(255, 255, 255, 0.925);
+                background-color: rgba(0, 0, 0, 0.582);
                 transform-origin: center;
                 transform: scale(0);
                 transition: all .4s ease-in-out;
@@ -53,7 +53,7 @@
                         text-decoration: none;
                         font-family: inherit;
                         border-radius: 10px;
-                        background-color: #037FFF;
+                        background-color:  rgba(173, 5, 202, 0.746);
                         color: white;
                         &:not(:last-child){
                             margin-right: 2rem;
@@ -71,15 +71,19 @@
             }
         }
         
-        h5{
+        h7{
             font-size: 1.7rem;
             font-weight: 400;
             color: white;
             transition: all .3s ease-in-out;
             &:hover{
-                color:  #037FFF;
+                color:  rgba(173, 5, 202, 0.746);
                 cursor: pointer;
             }
+        }
+        
+        .cap {
+            font-size: 1.03rem;
         }
     }
 }

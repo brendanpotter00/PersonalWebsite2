@@ -17,7 +17,7 @@ function MenuItems({menuItem}) {
                         <h7>
                             {item.title}
                         </h7>
-                        <p> {item.caption} </p>
+                        <p className="cap"> {item.caption} </p>
                     </div>
                 })
             }

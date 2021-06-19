@@ -6,6 +6,18 @@ import port6 from '../img/portImages/port5.jpg';
 import port7 from '../img/portImages/port6.jpg';
 import about from '../img/archPic1ABOUT.png';
 import avatar from '../img/avatar3.png';
+import i1 from '../img/interestsImages/i1.png';
+import i2 from '../img/interestsImages/i2.png';
+import i3 from '../img/interestsImages/i3.png';
+import i4 from '../img/interestsImages/i4.png';
+import i5 from '../img/interestsImages/i5.png';
+import i6 from '../img/interestsImages/i6.png';
+import i7 from '../img/interestsImages/i7.png';
+import i8 from '../img/interestsImages/i8.png';
+import i9 from '../img/interestsImages/i9.png';
+
+
+
 
 const portfolios = [
     {
@@ -25,68 +37,68 @@ const portfolios = [
         
         id: 1,
         category: '2021',
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '2021',
+        caption: '',
         image: about,
         title: ''
     },
     {
         id: 2,
         category: '2020',
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick and i want to the best place in teh world asia the best best ever',
-        caption: 'Uses webcam to determine if a person is smiling | Python',
-        image: avatar,
+        caption: '',
+        image: i1,
         title: ''
     },
     {
         id: 3,
         category: '2019',
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: 'Website made using Three.js for Fraternity | JavaScript, React.js',
-        image: avatar,
+        caption: '',
+        image: i2,
         title: ''
     },
     {
         id: 4,
         category: '2018',
        
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: 'Reactive professional portfolio website (this website) | JavaScript, React.js',
-        image: about,
+        caption: '',
+        image: i3,
         title: ''
     },
     {
         id: 5,
         category: '2017',
         
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: 'Game similar to the arcade game made for CS 2 course | Scala',
-        image: about,
+        caption: '',
+        image: i4,
         title: ''
     },
     {
         id: 6,
         category: 'Full Stack Development',
         
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack',
-        image: about,
+        caption: '',
+        image: i5,
         title: ''
     },
     {
         id: 7,
         category: 'Automation',
         
-        link1: 'https://www.instagram.com/brendanpotter00/',
+        link1: '',
         icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: 'Program that sends an automated text at any given time of day | Python',
-        image: about,
+        caption: '',
+        image: i6,
         title: ''
     }
 ]

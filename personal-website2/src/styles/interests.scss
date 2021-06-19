@@ -25,7 +25,7 @@
                 left: 15px;
                 height: calc(100% - 30px);
                 width: calc(100% - 30px);
-                background-color: rgba(0, 0, 0, 0.534);
+                background-color: rgba(255, 255, 255, 0.575);
                 transform-origin: center;
                 transform: scale(0);
                 transition: all .4s ease-in-out;
@@ -50,7 +50,7 @@
                 //TWEAKING THE CENTERING OF THE PURPLE BOX   
                 top: 50%;
                 left: 50%;
-                left: -.9rem;
+                left: -.5rem;
                 right: 1rem;
                 
                 transform: translate(3%, -50%);
@@ -80,7 +80,7 @@
                         text-decoration: none;
                         font-family: inherit;
                         border-radius: 10px;
-                        background-color: rgba(126, 15, 117, 0.849);
+                        background-color: rgba(119, 5, 109, 0.849);
                         color: rgb(255, 255, 255);
                         &:not(:last-child){
                             margin-right: 2rem;
@@ -95,7 +95,7 @@
                     transition: all .5s ease-in-out .2s;
                     visibility: visible;
                     //WHERE THE PURPLE BOX ENDS UP
-                    top: 30%;
+                    top: 40%;
                 }
             }
         }
