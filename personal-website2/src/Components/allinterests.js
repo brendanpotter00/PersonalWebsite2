@@ -16,6 +16,11 @@ import i7 from '../img/interestsImages/i7.png';
 import i8 from '../img/interestsImages/i8.png';
 import i9 from '../img/interestsImages/i9.png';
 
+import i11 from '../img/interestsImages/i11.png';
+import i12 from '../img/interestsImages/i12.png';
+import i13 from '../img/interestsImages/i13.png';
+
+
 
 
 
@@ -100,7 +105,37 @@ const portfolios = [
         caption: '',
         image: i6,
         title: ''
-    }
+    },
+    {
+        id: 8,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        caption: '',
+        image: i11,
+        title: ''
+    },
+    {
+        id: 9,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        caption: '',
+        image: i12,
+        title: ''
+    },
+    {
+        id: 10,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        caption: '',
+        image: i13,
+        title: ''
+    },
 ]
 
 export default portfolios;
