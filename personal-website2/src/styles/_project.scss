@@ -28,6 +28,7 @@
                 transform-origin: center;
                 transform: scale(0);
                 transition: all .4s ease-in-out;
+                border-radius: 20px;
 
             }
             &:hover::before{
@@ -37,6 +38,7 @@
                 width: 100%;
                 height: 30vh;
                 object-fit: cover;
+                border-radius: 20px;
             }
 
             .hover-items{
@@ -55,6 +57,7 @@
                         border-radius: 10px;
                         background-color:  rgba(173, 5, 202, 0.746);
                         color: white;
+                        border-radius: 20px;
                         &:not(:last-child){
                             margin-right: 2rem;
                         }
