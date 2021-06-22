@@ -29,10 +29,11 @@ function InterestsPage() {
             <div className="title">
             <Title title={'Photo Album'} span={'Photo Album'} />
             </div>
-
+            <div className="card">
             <div className="portfolios-data">
                {/*<Categories filter={filter} categories={categories} /> */} 
                 <MenuItems menuItem={menuItems} />
+            </div>
             </div>
         </div>
     )

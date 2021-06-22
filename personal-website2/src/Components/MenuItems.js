@@ -6,6 +6,7 @@ function MenuItems({menuItem}) {
             {
                 menuItem.map((item)=>{
                     return <div className="portfolio" key={item.id}>
+                        <div className="card">
                         <div className="image-data">
                             <img src={item.image} alt=""/>
                             <ul className="hover-items">
@@ -18,6 +19,7 @@ function MenuItems({menuItem}) {
                             {item.title}
                         </h7>
                         <p className="cap"> {item.caption} </p>
+                        </div>
                     </div>
                 })
             }

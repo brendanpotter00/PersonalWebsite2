@@ -18,9 +18,13 @@
     }
 
     .about-info{
+        //color: white;
+        
         margin-left: 2rem;
         h4{
             font-size: 2rem;
+            
+            
         }
         .about-text{
             padding: 1rem 0;
@@ -61,6 +65,9 @@
     margin-top: 1rem;
     position: relative;
     border-radius: 10px;
+
+    
+
     &::after{
         position: absolute;
         content: "";

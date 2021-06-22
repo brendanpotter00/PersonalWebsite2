@@ -15,8 +15,11 @@ function ImageSection() {
             
             <div className="about-info">
             
-
+                <div className="card"> 
+                <div className="head">
                 <h4> I am <span> Brendan Potter</span></h4>
+                </div>
+                
                 <p className="about-text">
                     I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. 
                 </p>
@@ -44,6 +47,8 @@ function ImageSection() {
                         <a href="resume.docx" download/>
                     </button>
                 </a>
+                
+                </div>
                 
                 
             </div>
