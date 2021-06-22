@@ -17,6 +17,7 @@ function App() {
   }
   return (
     <div className="App">
+      <HomePage />
       <div className={`sidebar ${navToggle ? 'nav-toggle': ''}`}>
         <NavBar />
       </div>
