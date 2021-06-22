@@ -12,7 +12,7 @@
         img{
             width: 100%;
             object-fit: cover;
-            
+            border-radius: 20px;
             height: 100%;
         }
     }
@@ -60,6 +60,7 @@
     letter-spacing: 2px;
     margin-top: 1rem;
     position: relative;
+    border-radius: 10px;
     &::after{
         position: absolute;
         content: "";
@@ -67,7 +68,8 @@
         height: .3rem;
         left: 0;
         bottom: 0;
-        background-color: #a4acc4;;
+        background-color: #a4acc4;
+        border-radius: 10px;
         transition: all 0.4s ease-in-out;
     }
     &:hover::after{
@@ -96,6 +98,7 @@
     font-family: inherit;
     color: white;
     margin-bottom: 1rem;
+    border-radius: 10px;
     transition: all .3s ease-in-out;
     &:not(:last-child){
         margin-right: 1rem;

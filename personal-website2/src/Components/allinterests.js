@@ -51,7 +51,7 @@ const portfolios = [
     },
     */
     {
-        id: 2,
+        id: 1,
         category: '2020',
         link1: '',
         icon1: 'We found a little rock wall in Arched National Park in Utah | 2020',
@@ -60,7 +60,7 @@ const portfolios = [
         title: ''
     },
     {
-        id: 3,
+        id: 2,
         category: '2019',
         link1: '',
         icon1: 'After a lot of hiking, we made it to Bowman Lookout | 2017',
@@ -69,71 +69,71 @@ const portfolios = [
         title: ''
     },
     {
-        id: 4,
+        id: 12,
         category: '2018',
        
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'As we were driving past this sign, we decided to take a picture in front of it | 2020',
         caption: '',
         image: i3,
         title: ''
     },
     {
-        id: 5,
+        id: 22,
         category: '2017',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Family picture in Jamaica | 2018',
         caption: '',
         image: i4,
         title: ''
     },
     {
-        id: 6,
+        id: 13,
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Kayaking on Lady Bird Lake in Austin, Tx | 2021',
         caption: '',
         image: i5,
         title: ''
     },
     {
-        id: 7,
+        id: 3,
         category: 'Automation',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'At the top of Lions Head hike in Hawaii | 2017',
         caption: '',
         image: i6,
         title: ''
     },
     {
-        id: 8,
+        id: 4,
         category: 'Automation',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Accomplished a goal of taking a picture with a koala in Australia | 2019',
         caption: '',
         image: i7,
         title: ''
     },
     {
-        id: 9,
+        id: 5,
         category: 'Automation',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'At the top of Lions Head hike in Hawaii, and there was a drop off behind me | 2017',
         caption: '',
         image: i8,
         title: ''
     },
     {
-        id: 10,
+        id: 21,
         category: 'Automation',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Family picture in Jamaica | 2018',
         caption: '',
         image: i9,
         title: ''
@@ -151,56 +151,25 @@ const portfolios = [
     },
     */
     {
-        id: 12,
+        id: 6,
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'On a hike in Hawaii | 2017',
         caption: '',
         image: i11,
         title: ''
     },
-    /*
-    {
-        //dog
-        id: 13,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i12,
-        title: ''
-    },
-    */
+    
+    
     {
         id: 14,
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i13,
-        title: ''
-    },
-    {
-        id: 15,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Posing next to a coral at the Great Barrier Reef | 2019',
         caption: '',
         image: i14,
-        title: ''
-    },
-    {
-        id: 16,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i15,
         title: ''
     },
     {
@@ -208,9 +177,59 @@ const portfolios = [
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'At the top of the Sydney Harbor Bridge | 2019',
+        caption: '',
+        image: i15,
+        title: ''
+    },
+    {
+        id: 15,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Wall diving 60ft underwater in the Great Barrier Reef | 2019',
         caption: '',
         image: i16,
+        title: ''
+    },
+    {
+        id: 16,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Maintaining bouyancy while admiring the wildlife in the reef | 2019',
+        caption: '',
+        image: i17,
+        title: ''
+    },
+    {
+        id: 7,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Cuddling because it was 7 am and very cold at Arches National Park | 2020',
+        caption: '',
+        image: i18,
+        title: ''
+    },
+    {
+        id: 8,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Balanced Rock at Arches National Park | 2020',
+        caption: '',
+        image: i19,
+        title: ''
+    },
+    {
+        id: 9,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Bouldering at Armadillo next to university | 2021',
+        caption: '',
+        image: i20,
         title: ''
     },
     {
@@ -218,9 +237,29 @@ const portfolios = [
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Deadhorse National Park | 2020',
         caption: '',
-        image: i17,
+        image: i21,
+        title: ''
+    },
+    {
+        id: 10,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'The iconic Delicate Arch is a lot bigger than you think | 2020',
+        caption: '',
+        image: i22,
+        title: ''
+    },
+    {
+        id: 11,
+        category: 'Full Stack Development',
+        
+        link1: '',
+        icon1: 'Two arches are better than one | 2020',
+        caption: '',
+        image: i23,
         title: ''
     },
     {
@@ -228,9 +267,9 @@ const portfolios = [
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'Resting after a long hike at Deadhorse National Park | 2020',
         caption: '',
-        image: i18,
+        image: i24,
         title: ''
     },
     {
@@ -238,67 +277,7 @@ const portfolios = [
         category: 'Full Stack Development',
         
         link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i19,
-        title: ''
-    },
-    {
-        id: 21,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i20,
-        title: ''
-    },
-    {
-        id: 22,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i21,
-        title: ''
-    },
-    {
-        id: 23,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i22,
-        title: ''
-    },
-    {
-        id: 24,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i23,
-        title: ''
-    },
-    {
-        id: 25,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
-        caption: '',
-        image: i24,
-        title: ''
-    },
-    {
-        id: 26,
-        category: 'Full Stack Development',
-        
-        link1: '',
-        icon1: 'i want to go to bali and meet rich brian so he can suck my dick',
+        icon1: 'I skied into a little river | 2018',
         caption: '',
         image: i25,
         title: ''
