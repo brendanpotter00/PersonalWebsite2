@@ -27,7 +27,7 @@ function InterestsPage() {
     return (
         <div className="InterestsPage">
             <div className="title">
-            <Title title={'Interests'} span={'Interests'} />
+            <Title title={'Photo Album'} span={'Photo Album'} />
             </div>
 
             <div className="portfolios-data">

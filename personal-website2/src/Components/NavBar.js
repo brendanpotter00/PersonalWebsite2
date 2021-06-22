@@ -30,7 +30,7 @@ function NavBar() {
                     </li>
                     <li className="nav-item">
                         <NavLink to="/interests" exact activeClassName="active">
-                            Personal Interests (Photo Album)
+                            Get To Know Me
                         </NavLink>
                     </li>
                     <li className="nav-item">

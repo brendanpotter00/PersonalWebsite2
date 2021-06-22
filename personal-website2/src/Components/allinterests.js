@@ -38,9 +38,7 @@ import i25 from '../img/interestsImages/i25.png';
 
 const portfolios = [
     /*
-    {
-        
-        
+    {        
         id: 1,
         category: '2021',
         link1: '',

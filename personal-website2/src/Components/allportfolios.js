@@ -69,7 +69,7 @@ const portfolios = [
         id: 5,
         category: 'Full Stack Development',
         
-        link1: 'www.github.com',
+        link1: 'https://github.com/brendanpotter00/Full-Stack-App',
         icon1: 'G',
         caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack',
         image: glasses,
@@ -85,7 +85,7 @@ const portfolios = [
         icon1: 'G',
         caption: 'Program that sends an automated text at any given time of day | Python',
         image: text,
-        title: 'Goodmorning-Text-Bot'
+        title: 'Goodmorning Text Bot'
     },
     {
         id: 3,
@@ -112,9 +112,9 @@ const portfolios = [
         id: 10,
         category: 'Mobile App Development',
         
-        link1: 'https://github.com/brendanpotter00',
+        link1: 'https://github.com/brendanpotter00/Mobile-App',
         icon1: 'G',
-        caption: 'TBT',
+        caption: 'Deciding on different ideas for mobile app',
         image: mobile,
         title: 'TBT'
     },

@@ -1,6 +1,7 @@
 import React from 'react'
 import about from '../img/archPic1ABOUT.png';
 import aboutTest from '../img/about.jpg'
+//import resume from '../img/resume.doc';
 
 function ImageSection() {
     return (
@@ -17,7 +18,7 @@ function ImageSection() {
 
                 <h4> I am <span> Brendan Potter</span></h4>
                 <p className="about-text">
-                    I am gay. this a descriptor and is IN IMAGESECTION.JS hello hello hello hello hello hellohello hello
+                    I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. 
                 </p>
                 <div className="about-details">
                     <div className="left-section">
@@ -37,10 +38,14 @@ function ImageSection() {
                        
                     </div>
                 </div>
-                <button className="btn">
-                    Download Resume
-                    <a href="resume.doc" />
-                </button>
+                <a href="../img/resume.docx" download="Brendan Potter Resume">
+                    <button className="btn">
+                        Download Resume
+                        <a href="resume.docx" download/>
+                    </button>
+                </a>
+                
+                
             </div>
         </div>
     )

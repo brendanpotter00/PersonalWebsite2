@@ -19,8 +19,16 @@ function HomePage() {
                     <span> Brendan Potter.</span>
                 </h1>
                 <p className="h-sub-text">
-                   I am a Computer Science and Business Student at Trinity University and will graduate in May 2023. I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. THIS IS IN HOMEPAGE.JS
+                   I am a Computer Science and Business Student at Trinity University and will graduate in May 2023. 
                 </p>
+
+                <p className="h-sub-text">
+                  I am always searching for an opportunity to sharpen my skills and network with likeminded individuals.
+                </p>
+                <p className="h-sub-text">
+                  Below are my Linked-In, Github, and Fiverr
+                </p>
+               
                 <div className="icons">
                     <Link to="https://linkedin.com/in/brendanpotter00" className="icon-holder">
                         <FontAwesomeIcon icon={faLinkedin} className="icon li" />
