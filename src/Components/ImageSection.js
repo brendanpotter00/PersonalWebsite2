@@ -26,7 +26,7 @@ function ImageSection() {
                 <div className="about-details">
                     <div className="left-section">
                         <p>Full Name</p>
-                        <p>DOB</p>
+                        <p>Age</p>
                         <p>Nationality</p>
 
                         <p>City</p>
@@ -34,7 +34,7 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Brendan N Potter</p>
-                        <p>: Feb 16, 2000</p>
+                        <p>: 21</p>
                         <p>: American</p>
                         
                         <p>: San Antonio, Tx</p>
