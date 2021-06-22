@@ -17,7 +17,7 @@ function App() {
   }
   return (
     <div className="App">
-      <HomePage />
+      
       <div className={`sidebar ${navToggle ? 'nav-toggle': ''}`}>
         <NavBar />
       </div>
@@ -34,6 +34,7 @@ function App() {
       </div>
       <div className="main-content">
         <div className="content">
+          <HomePage />
           <Switch>
             <Route path="/" exact>
               <HomePage />
