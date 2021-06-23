@@ -21,7 +21,7 @@ function ImageSection() {
                 </div>
                 
                 <p className="about-text">
-                    I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. 
+                    I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. I value developing meaningful, lasting relationships and contributing to projects that leave a lasting impact.
                 </p>
                 <div className="about-details">
                     <div className="left-section">

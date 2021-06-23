@@ -71,7 +71,7 @@ const portfolios = [
         
         link1: 'https://github.com/brendanpotter00/Full-Stack-App',
         icon1: 'G',
-        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack',
+        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack | In progress',
         image: glasses,
         title: 'College Garage Sale'
     },
@@ -93,9 +93,9 @@ const portfolios = [
         
         link1: 'https://github.com/brendanpotter00/3D-website',
         icon1: 'G',
-        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity | JavaScript, React.js',
+        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity | JavaScript, React.js, Three.js | In progress',
         image: gen,
-        title: 'Phi Sigma Chi Website'
+        title: '3D Phi Sigma Chi Website'
     },
     {
         id: 2,
@@ -116,7 +116,7 @@ const portfolios = [
         icon1: 'G',
         caption: 'Deciding on different ideas for mobile app',
         image: mobile,
-        title: 'TBT'
+        title: 'TBD'
     },
     {
         id: 9,
