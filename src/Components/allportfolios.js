@@ -35,7 +35,7 @@ const portfolios = [
         */
         
         id: 1,
-        category: 'Web Devlopement',
+        category: 'Web Developement',
         link1: 'https://github.com/brendanpotter00/PersonalWebsite2',
         icon1: 'G',
         caption: 'Reactive professional portfolio website (this website) | JavaScript, React.js',
@@ -89,7 +89,7 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Web Devlopement',
+        category: 'Web Developement',
         
         link1: 'https://github.com/brendanpotter00/3D-website',
         icon1: 'G',
