@@ -21,12 +21,12 @@ function ImageSection() {
                 </div>
                 
                 <p className="about-text">
-                    I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. 
+                    I have experiance in web development, game development, machine learning, and iOS App development. I am a freelance programmer on Fiverr and an options trader. I value developing meaningful, lasting relationships and contributing to projects that leave a lasting impact.
                 </p>
                 <div className="about-details">
                     <div className="left-section">
                         <p>Full Name</p>
-                        <p>DOB</p>
+                        <p>Age</p>
                         <p>Nationality</p>
 
                         <p>City</p>
@@ -34,7 +34,7 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Brendan N Potter</p>
-                        <p>: Feb 16, 2000</p>
+                        <p>: 21</p>
                         <p>: American</p>
                         
                         <p>: San Antonio, Tx</p>

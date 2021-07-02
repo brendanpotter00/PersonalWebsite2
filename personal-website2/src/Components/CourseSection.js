@@ -63,22 +63,39 @@ function CourseSection() {
                         <p></p>
                         <p></p>
                         <p></p>
-                      
+                        
                         <p>: learned the fundamentals of functinal programming with <span className="langs">Haskell</span></p>
                         <p></p>
                         <p></p>
                         <p></p>
-                        <p>: learned the fundamentals of data abstraction and all basic data structures (e.g. linked list, binary tree) and the relating algoritms in <span className="langs">C++</span></p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <p>: learned the fundamentals of data abstraction and all basic data structures (e.g. linked list, binary tree) and the relating algoritms in <span className="langs">C++</span>. And worked with <span className="langs">SQL</span> and databases.</p>
                        
-                       
+                        <p></p>
+                        <p></p>
+                        <p></p>
                         <p>: computer design emphasizing logical design, such as computer arithmetic, processor control, etc. And utilized assembly-language programming <span className="langs">(Mips)</span> </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
                         <p>: learned basics of AI (e.g. AStar, Finite State Machines, and L-Systems) and applied these algoritms into games</p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
                         <p>: Taking in Fall 2021</p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
                         <p></p>
                         <p></p>
                         <p></p>
 
                         <p>: Taking in Fall 2021</p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
                         <p></p>
                         <p></p>
                         <p></p>

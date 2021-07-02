@@ -35,13 +35,27 @@ const portfolios = [
         */
         
         id: 1,
-        category: 'Web Devlopement',
+        category: 'Web Developement',
         link1: 'https://github.com/brendanpotter00/PersonalWebsite2',
         icon1: 'G',
         caption: 'Reactive professional portfolio website (this website) | JavaScript, React.js',
         image: web,
         title: 'My Personal Website'
     },
+    {
+
+        id: 11,
+        category: 'Web Developement',
+        
+        link1: 'https://github.com/brendanpotter00/commuv-web',
+        icon1: 'G',
+        caption: 'Commuv landing page, displaying app features, testimonials, articles, and team members, with Gsap animations.' ,
+        link: 'https://commuvwebsite.netlify.app/',
+        linkref: 'Commuv Website',
+        image: web,
+        title: 'Commuv LLC Website'
+    },
+
     {
 
         id: 7,
@@ -69,9 +83,9 @@ const portfolios = [
         id: 5,
         category: 'Full Stack Development',
         
-        link1: 'https://github.com/brendanpotter00/Full-Stack-App',
+        link1: 'https://github.com/brendanpotter00/Garage-Sale',
         icon1: 'G',
-        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack',
+        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack | In progress',
         image: glasses,
         title: 'College Garage Sale'
     },
@@ -89,13 +103,13 @@ const portfolios = [
     },
     {
         id: 3,
-        category: 'Web Devlopement',
+        category: 'Web Developement',
         
         link1: 'https://github.com/brendanpotter00/3D-website',
         icon1: 'G',
-        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity | JavaScript, React.js',
+        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity | JavaScript, React.js, Three.js | In progress',
         image: gen,
-        title: 'Phi Sigma Chi Website'
+        title: '3D Phi Sigma Chi Website'
     },
     {
         id: 2,
@@ -116,7 +130,7 @@ const portfolios = [
         icon1: 'G',
         caption: 'Deciding on different ideas for mobile app',
         image: mobile,
-        title: 'TBT'
+        title: 'TBD'
     },
     {
         id: 9,
