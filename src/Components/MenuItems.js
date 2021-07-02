@@ -18,7 +18,10 @@ function MenuItems({menuItem}) {
                         <h7>
                             {item.title}
                         </h7>
-                        <p className="cap"> {item.caption} </p>
+                        <p className="cap"> 
+                            {item.caption} 
+                            <a className="icon-holder" href={item.link}> {item.linkref} </a>
+                        </p>
                         </div>
                     </div>
                 })

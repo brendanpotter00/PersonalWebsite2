@@ -44,6 +44,20 @@ const portfolios = [
     },
     {
 
+        id: 11,
+        category: 'Web Developement',
+        
+        link1: 'https://github.com/brendanpotter00/commuv-web',
+        icon1: 'G',
+        caption: 'Commuv landing page, displaying app features, testimonials, articles, and team members, with Gsap animations.' ,
+        link: 'https://commuvwebsite.netlify.app/',
+        linkref: 'Commuv Website',
+        image: web,
+        title: 'Commuv LLC Website'
+    },
+
+    {
+
         id: 7,
         category: 'Machine Learning',
         

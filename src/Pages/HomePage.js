@@ -30,17 +30,17 @@ function HomePage() {
                 </p>
                
                 <div className="icons">
-                    <Link to="https://linkedin.com/in/brendanpotter00" className="icon-holder">
+                    
+                    <a className="icon-holder" href="https://www.linkedin.com/in/brendan-potter00/">
                         <FontAwesomeIcon icon={faLinkedin} className="icon li" />
-                    </Link>
-                    <Link to="https://github.com/brendanpotter00" className="icon-holder">
+                    </a>
+                    <a className="icon-holder" href="https://github.com/brendanpotter00">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
-                    </Link>
-                    <Link to="https://www.fiverr.com/brendanpotter00" className="icon-holder">
-                        <FontAwesomeIcon icon={faPaypal} className="icon pay"/>
-                    </Link>
-                    
-                    
+                    </a>
+                    <a className="icon-holder" href="https://www.fiverr.com/brendanpotter00">
+                        <FontAwesomeIcon icon={faPaypal} className="icon pay" />
+                    </a>
+
                 </div>
             </header>
             
