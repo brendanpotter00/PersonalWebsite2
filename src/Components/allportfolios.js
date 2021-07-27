@@ -83,7 +83,7 @@ const portfolios = [
         id: 5,
         category: 'Full Stack Development',
         
-        link1: 'https://github.com/brendanpotter00/Full-Stack-App',
+        link1: 'https://github.com/brendanpotter00/Garage-Sale',
         icon1: 'G',
         caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack | In progress',
         image: glasses,
