@@ -38,16 +38,15 @@ function ImageSection() {
                         <p>: American</p>
                         
                         <p>: San Antonio, Tx</p>
-                       
+
                     </div>
                 </div>
-                <a href="../img/resume.docx" download="Brendan Potter Resume">
-                    <button className="btn">
-                        Download Resume
-                        <a href="resume.docx" download/>
-                    </button>
-                </a>
-                
+
+                    <a href="https://www.linkedin.com/in/brendan-potter-784666202/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADO1-tQBUoqZPzgouOWm02d8PKpi3qFjWd4,1635464342062)/" download="Brendan Potter Resume">
+                        <button className="btn">
+                            Download Resume  
+                        </button>
+                    </a>                
                 </div>
                 
                 

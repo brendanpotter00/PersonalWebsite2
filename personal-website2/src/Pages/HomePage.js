@@ -4,7 +4,8 @@ import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faYoutube} from '@fortawesome/free-brands-svg-icons';
 import {faLinkedin} from '@fortawesome/free-brands-svg-icons';
 import {faInstagram} from '@fortawesome/free-brands-svg-icons';
-import {faPaypal} from '@fortawesome/free-brands-svg-icons';
+import {fa} from '@fortawesome/free-brands-svg-icons';
+import {faFirefox} from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Title from '../Components/Title'
 //import {faDigitalOcean} from '@fortawesome/free-brands-svg-icons';
@@ -23,10 +24,10 @@ function HomePage() {
                 </p>
 
                 <p className="h-sub-text">
-                  I am always searching for an opportunity to sharpen my skills and network with likeminded individuals.
+                  Founder of bnpWebDesigns LLC. and Software Engineer at Commuv LLC.
                 </p>
                 <p className="h-sub-text">
-                  Below are my Linked-In, Github, and Fiverr
+                  Below are my Linked-In, Github, and bnpWebDesigns Website
                 </p>
                
                 <div className="icons">
@@ -37,8 +38,8 @@ function HomePage() {
                     <a className="icon-holder" href="https://github.com/brendanpotter00">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </a>
-                    <a className="icon-holder" href="https://www.fiverr.com/brendanpotter00">
-                        <FontAwesomeIcon icon={faPaypal} className="icon pay" />
+                    <a className="icon-holder" href="https://bnpwebdesigns.com/">
+                        <FontAwesomeIcon icon={faFirefox} className="icon pay" />
                     </a>
 
                 </div>
