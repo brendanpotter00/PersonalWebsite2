@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Hanuman
+- Font Author: Copyright 2011 Danh Hong (danhhong@gmail.com)
+- Font Source: http://fonts.gstatic.com/s/hanuman/v14/VuJxdNvD15HhpJJBeKbXOIFneRo.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)

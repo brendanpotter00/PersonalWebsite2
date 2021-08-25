@@ -20,7 +20,7 @@ function HomePage() {
                     <span> Brendan Potter.</span>
                 </h1>
                 <p className="h-sub-text">
-                   I am a Computer Science and Business Student at Trinity University and will graduate in May 2023. 
+                   I am a Computer Science and Business Student at Trinity University, graduating May 2023. 
                 </p>
 
                 <p className="h-sub-text">

@@ -38,7 +38,7 @@ const portfolios = [
         category: 'Web Developement',
         link1: 'https://github.com/brendanpotter00/PersonalWebsite2',
         icon1: 'G',
-        caption: 'Reactive professional portfolio website (this website) | JavaScript, React.js',
+        caption: 'Responsive, professional portfolio website (this website) | JavaScript, React.js',
         image: web,
         title: 'My Personal Website'
     },
@@ -49,15 +49,26 @@ const portfolios = [
         
         link1: 'https://github.com/brendanpotter00/commuv-web',
         icon1: 'G',
-        caption: 'Commuv landing page, displaying app features, testimonials, articles, and team members, with Gsap animations.' ,
+        caption: 'Commuv landing page, displaying app features, testimonials, articles, and team members, with GSAP animations. | HTML, CSS' ,
         link: 'https://commuvwebsite.netlify.app/',
         linkref: 'Commuv Website',
         image: web,
         title: 'Commuv LLC Website'
     },
-
     {
 
+        id: 5,
+        category: 'Full Stack Development',
+        
+        link1: 'https://github.com/brendanpotter00/garage-simple',
+        icon1: 'G',
+        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack | In progress',
+        link: 'https://garage-sale2.netlify.app/',
+        linkref: 'Garage Sale',
+        image: glasses,
+        title: 'College Garage Sale'
+    },
+    {
         id: 7,
         category: 'Machine Learning',
         
@@ -74,24 +85,27 @@ const portfolios = [
        
         link1: 'https://github.com/brendanpotter00/SpaceGame-CS2',
         icon1: 'G',
-        caption: 'Game similar to the arcade game made for CS 2 course | Scala',
+        caption: 'Game similar to the classic arcade game, Space Invaders, made for CS 2 course | Scala',
         image: arcade,
+        link: 'https://i.imgur.com/yMN3UBd.mp4',
+        linkref: 'Game Demo',
         title: 'Space Invaders Game'
     },
     {
 
-        id: 5,
-        category: 'Full Stack Development',
+        id: 100,
+        category: 'Web Developement',
         
-        link1: 'https://github.com/brendanpotter00/Garage-Sale',
+        link1: 'https://github.com/brendanpotter00/bnpWebDesigns-Temp',
         icon1: 'G',
-        caption: 'Online listing for the Phi Sigma Chi fraternity to sell items when graduating college | MERN Stack | In progress',
-        image: glasses,
-        title: 'College Garage Sale'
+        caption: 'This is a temporary landing page I made using the ThreeJS library. | JavaScript, HTML, CSS' ,
+        link: 'https://bnpwebdesigns.com/',
+        linkref: 'bnpWebDesigns',
+        image: web,
+        title: 'bnpWebDesigns Temp Website'
     },
+    
     {
-        
-
         id: 6,
         category: 'Automation',
         
@@ -107,8 +121,10 @@ const portfolios = [
         
         link1: 'https://github.com/brendanpotter00/3D-website',
         icon1: 'G',
-        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity | JavaScript, React.js, Three.js | In progress',
+        caption: 'Website made using Three.js for the Phi Sigma Chi fraternity (only works on Desktop) | JavaScript, React.js, Three.js | In progress',
         image: gen,
+        link: 'https://phisigmachi.netlify.app/',
+        linkref: 'Phi Sigma Chi Website',
         title: '3D Phi Sigma Chi Website'
     },
     {
@@ -151,6 +167,16 @@ const portfolios = [
         caption: 'Programs for CSCI 1120 | C',
         image: port4,
         title: 'CSCI 1120'
+    },
+    {
+        id: 101,
+        category: 'Course Work',
+        
+        link1: 'https://github.com/brendanpotter00/threejs-course',
+        icon1: 'G',
+        caption: 'Bruno Simons ThreeJS course I took | JavaScript, HTML, CSS',
+        image: port4,
+        title: 'ThreeJS Course'
     },
 ]
 
